@@ -1,5 +1,10 @@
 # CS3366-HW1
 
+### Links
+[Presentation page](https://blainesieck.github.io/CS3366-HW1/.) (e.g. https://blainesieck.github.io/CS3366-HW1/., contains content of this README)
+
+[GitHub repository](https://github.com/BlaineSieck/CS3366-HW1) (e.g. https://github.com/BlaineSieck/CS3366-HW1)
+
 C:
 Petroleum Engineering Building Elevator
 - the key switches are odd, I don’t think I’ve ever seen an elevator with key switches before
