@@ -49,7 +49,7 @@ Petroleum Engineering Building Elevator
 
 ![](sketch.png)
 
-**To get an A::**
+**To get an A:**
 
 **Features**
 - when you press a button it will light up
