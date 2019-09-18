@@ -26,3 +26,5 @@ Petroleum Engineering Building Elevator
 - The buttons light up when pressed
 - Maybe misidentifying the switches as buttons, but this is unlikely
 - I would suggest moving the switches to a separate area from the control buttons
+
+![](sketch.png)
