@@ -49,6 +49,16 @@ Petroleum Engineering Building Elevator
 
 ![](sketch.png)
 
+**To get an A::**
+
+**Features**
+- when you press a button it will light up
+- floor buttons remain lit until that floor is reached
+- door close and door open buttons only remain lit while being pressed
+- the alarm button will sound a 3 second alarm
+- the call button places a call to emergency services
+- the small light will blink red when the emergency call is answered
+
 **Gif of redesigned interface**
 
 ![](hw1.Sieck.gif)
