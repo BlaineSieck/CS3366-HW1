@@ -51,4 +51,4 @@ Petroleum Engineering Building Elevator
 
 **Gif of redesigned interface**
 
-![](Demo%20Github.mov)
+![](hw1.Sieck.gif)
