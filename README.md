@@ -5,7 +5,8 @@
 
 [GitHub repository](https://github.com/BlaineSieck/CS3366-HW1) (e.g. https://github.com/BlaineSieck/CS3366-HW1)
 
-C:
+**To get a C:**
+
 Petroleum Engineering Building Elevator
 - the key switches are odd, I don’t think I’ve ever seen an elevator with key switches before
 - some of the key switches are with the buttons and some are high above them which seems disorganized
@@ -13,8 +14,10 @@ Petroleum Engineering Building Elevator
 
 ![](panel.png)
 ![](entire%20elevator.png)
+![](elevator.gif)
 
-B:
+**To get a B:**
+
 - Common uses include: going to a floor, force closing the door, and holding the door open
 - Rare uses include: sounding the emergency alarm and using the phone
 - The existing interface makes all of these things easy, the switches are just distracting and in the way
