@@ -11,6 +11,9 @@ Petroleum Engineering Building Elevator
 - some of the key switches are with the buttons and some are high above them which seems disorganized
 - it would be better to have all the key switches separate from the main buttons to keep it simpler and less confusing
 
+![](full%20elevator.JPG)
+![](elevator%20panel.PNG)
+
 B:
 - Common uses include: going to a floor, force closing the door, and holding the door open
 - Rare uses include: sounding the emergency alarm and using the phone
