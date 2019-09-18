@@ -48,3 +48,7 @@ Petroleum Engineering Building Elevator
 - I would also label the buttons instead of having extra labels next to the buttons
 
 ![](sketch.png)
+
+**Gif of redesigned interface**
+
+![](Demo%20Github.mov)
